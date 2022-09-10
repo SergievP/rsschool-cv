@@ -5,10 +5,11 @@
 
 ## Contact information
 __E-mail:__ efremov.vlad.ser@gmail.com
+
 __Telegram:__ @Vl_ESe
 
 ## About Me
-I have a pedagogical education. I didn't like working at school. I realized that I want to have a profession that is in demand all over the world. I see freedom in Frontend development, which is so rare in my country. I liked the teaching approach at rs-school. 
+I have a pedagogical education. I didn't like working at school. I realized that I want to have a profession that is in demand all over the world. I see freedom in Frontend development, which is so rare in my country. Now I work in a library and learn programming all my free time.
 
 ## Skills
 * HTML5, CSS3 (Sass)
