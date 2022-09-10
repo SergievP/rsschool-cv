@@ -17,11 +17,11 @@ I have a pedagogical education. I didn't like working at school. I realized that
 =====
 
 ## Skills
-* HTML5, CSS3 (Sass), C
-* JavaScript Basics
+* HTML5, CSS3 (Sass)
+* JavaScript Basics, C Basics
 * Git, GitHub
 * VS Code
-* Adobe Photoshop Basics, Marsy Basics
+* Adobe Photoshop Basics, Marsy
 
 =====
 
