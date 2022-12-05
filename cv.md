@@ -9,7 +9,6 @@ __E-mail:__ efremov.vlad.ser@gmail.com
 __Telegram:__ @Vl_ESe
 
 ## About Me
-I have a pedagogical education. I didn't like working at school. I realized that I want to have a profession that is in demand all over the world. I see freedom in Frontend development, which is so rare in my country. Now I work in a library and learn programming all my free time.
 
 ## Skills
 * HTML5, CSS3 (Sass)
@@ -30,6 +29,9 @@ function multiply(a, b){
     * [HTML/CSS](https://www.udemy.com/course/webdeveloper/)
     * [CMS WordPress](https://www.udemy.com/course/cms-wordpress/)
 * [Fundamentals of C programming.Tasks.](https://stepik.org/cert/1618835)
+* freeCodeCamp
+    * [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/) (in progress)
+    * [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) (in progress)
 * JavaScript Manual on [learnjavascript.ru](learnjavascript.ru) (in progress)
 * CS50 (in progress)
 
