@@ -37,4 +37,4 @@ function multiply(a, b){
 
 ## Languages
 * Russian - Native
-* English - A2
+* English - B1
