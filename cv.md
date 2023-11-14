@@ -1,7 +1,7 @@
 # [rsschool-cv](https://github.com/SergievP/rsschool-cv/blob/gh-pages/cv.md)
 
 ## Efremov Vladislav
-### Junior Frontend Developer
+__Junior Frontend Developer__
 
 ## Contact information
 __E-mail:__ efremov.vlad.ser@gmail.com
@@ -9,14 +9,14 @@ __E-mail:__ efremov.vlad.ser@gmail.com
 __Telegram:__ @Vl_ESe
 
 ## About Me
-I am 28 years old. 
+My goal is to make people's lives better with the help of IT technologies. I am convinced that technology saves time and energy so that we can spend more time with family and friends. At my previous job at a school as a teacher-organizer, I tried to learn from the experience of senior colleagues and use software tools for presentations, reports, and so on. The symbiosis of creativity and exact sciences is what attracts me to web-development.
 
 ## Skills
 * HTML5, CSS3 (Sass)
 * JavaScript Basics, C Basics
+* Adobe Photoshop Basics, Figma and Marsy
 * Git, GitHub
 * VS Code
-* Adobe Photoshop Basics, Marsy
 
 ## Code example:
 ```
@@ -38,6 +38,8 @@ function toHex(digit) {
 * [Primary school teacher's personal website](https://elenagorbunova8.wordpress.com/)
 
 ## Education
+* Moscow Pedagogical State University
+    * 44.03.01 Pedagogical education, program History (Bachelor’s degree)
 * The Rolling Scopes
     * [JavaScript/Front-end Pre-School 2023Q2](https://app.rs.school/certificate/o44edw00)
 * Udemy
@@ -46,7 +48,6 @@ function toHex(digit) {
 * freeCodeCamp
     * [Responsive Web Design](https://www.freecodecamp.org/certification/Efremov/responsive-web-design)
     * [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) (in progress)
-* JavaScript Manual on [learnjavascript.ru](learnjavascript.ru) (in progress)
 * [Fundamentals of C programming.Tasks.](https://stepik.org/cert/1618835)
 
 ## Languages
