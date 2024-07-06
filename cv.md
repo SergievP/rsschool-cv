@@ -5,6 +5,7 @@
 
 * __E-mail:__ efremov.vlad.ser@gmail.com
 * __Telegram:__ @Vl_ESe
+* __Discord (rsschool):__ SergievP
 
 ## About Me
 My goal is to make people’s lives better with the help of IT technologies. I am convinced that technology saves time and energy so that we can spend more time with family and friends. At my current job at an online store as a photographer, I use ChatGPT to create simple scripts to find, delete, or change a lot of data. The symbiosis of creativity and exact sciences is what attracts me to web development.
