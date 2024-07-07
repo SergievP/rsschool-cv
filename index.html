@@ -1,10 +1,84 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Vladislav Efremov - Resume</title>
+  <link rel="stylesheet" href="style.css">
 </head>
-<body>
+<body class="body">
+  <header class="header">
+    <h1 class="header__name">Vladislav Efremov</h1>
+    <img src="DSC_6335.png" alt="Vlad's photo" class="header__img">
+    <p class="header__title">Junior Frontend Developer</p>
+  </header>
+  <main class="main">
+    <section class="section section--contact">
+        <h2 class="section__title">Contact Information</h2>
+        <ul class="section__list">
+        <li class="section__list-item">E-mail: <a href="mailto:efremov.vlad.ser@gmail.com">efremov.vlad.ser@gmail.com</a></li>
+        <li class="section__list-item">Telegram: <a href="https://t.me/Vl_ESe">@Vl_ESe</a></li>
+        <li class="section__list-item">Discord (rsschool): SergievP</li>
+        </ul>
+    </section>
+
+    <section class="section section--about">
+        <h2 class="section__title">About Me</h2>
+        <p class="section__content">My goal is to make people’s lives better with the help of IT technologies. I am convinced that technology saves time and energy so that we can spend more time with family and friends. At my current job at an online store as a photographer, I use ChatGPT to create simple scripts to find, delete, or change a lot of data. The symbiosis of creativity and exact sciences is what attracts me to web development.</p>
+    </section>
+
+    <section class="section section--skills">
+        <h2 class="section__title">Skills</h2>
+        <ul class="section__list">
+        <li class="section__list-item">HTML5, CSS3 (Sass)</li>
+        <li class="section__list-item">JavaScript Basics</li>
+        <li class="section__list-item">Adobe Photoshop Basics, Figma and Marsy</li>
+        <li class="section__list-item">Git, GitHub</li>
+        <li class="section__list-item">VS Code</li>
+        </ul>
+    </section>
+
+    <section class="section section--example">        
+        <h2 class="code-example__title">Code Example</h2>
+        <pre class="code-example__content">
+<code>function mergeArrays(arr1, arr2) {
+        return [...new Set(arr1.concat(arr2).sort((a, b) => a - b))];
+}
+</code></pre>
+    </section>
+
+    <section class="section section--experience">
+        <h2 class="section__title">Work Experience</h2>
+        <ul class="section__list">
+        <li class="section__list-item"><a href="https://rolling-scopes-school.github.io/sergievp-JSFEPRESCHOOL2023Q2/library/">Brooklyn Public Library</a></li>
+        <li class="section__list-item"><a href="https://rolling-scopes-school.github.io/sergievp-JSFEPRESCHOOL2022Q4/plants/">Plants</a></li>
+        <li class="section__list-item"><a href="https://elenagorbunova8.wordpress.com/">Primary school teacher’s personal website</a></li>
+        </ul>
+    </section>
+
+    <section class="section section--education">
+        <h2 class="section__title">Education</h2>
+        <ul class="section__list">
+        <li class="section__list-item">Moscow Pedagogical State University - Bachelor’s degree in 44.03.01 Pedagogical education, program History</li>
+        <li class="section__list-item">The Rolling Scopes - JavaScript/Front-end Pre-School 2023Q2</li>
+        <li class="section__list-item">Udemy - HTML/CSS, CMS WordPress, freeCodeCamp courses in Responsive Web Design, JavaScript Algorithms and Data Structures (in progress)</li>
+        </ul>
+    </section>
+
+    <section class="section section--languages">
+        <h2 class="section__title">Languages</h2>
+        <ul class="section__list">
+        <li class="section__list-item">Russian - Native</li>
+        <li class="section__list-item">English - B1 (in progress)</li>
+        </ul>
+    </section>
+  </main>
+  <footer class="footer">
+    <ul class="footer__list">
+        <li class="footer__list-item"><a href="https://github.com/SergievP">SergievP</a></li>
+        <li class="footer__list-item">2024</li>
+        <li class="footer__list-item"><a href="https://rs.school/courses/javascript-preschool-ru"><img src="rs_school_js.svg" alt="rs_logo"></a></li>
+    </ul>
+  </footer>
 </body>
 </html>
